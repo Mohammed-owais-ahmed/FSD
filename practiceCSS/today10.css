@@ -1,0 +1,53 @@
+#header{
+    background-color: red;
+    height: 50px;
+}
+#login{
+    color: white;
+    float: right;
+}
+#account{
+    border: 1px solid white ;
+    /*margin: 5px;*/
+    padding: 10px;
+    text-align: center;
+    color: white;
+    float: right;
+}
+.h1{
+    color: blue;
+    padding-left: 75px;
+}
+#left{
+    padding-left: 75px;
+    max-width: 25%;
+    margin: 2px;
+    float: left;
+    border: 2px solid black;
+}
+#right{
+    float: left;
+    max-width: 75%;
+    padding-right: 75px;
+    margin: 2px;
+    border: 2px solid black;
+}
+
+.left{
+max-width: 25%;
+margin: 2px;
+float: left;
+padding: 10px;
+border: 2px solid black
+}
+.right{
+    max-width: 75%;
+    margin: 2px;
+    float: left;
+    padding: 10px;
+    border: 2px solid black
+}
+.top,.bottom{
+    margin: 75px;
+    border: 2px solid black;
+}

@@ -1,0 +1,23 @@
+body{
+    margin-top: 50px;
+}
+div{
+    padding: 3px;
+    margin: 3px;
+}
+.cred{
+    width: 350px;
+}
+h1{
+    font-style: italic;
+    padding: 30px;
+}
+#button{
+    padding: 3px;
+    background-color: skyblue;
+    width: 350px;
+    border: 0px;
+}
+input{
+    
+}

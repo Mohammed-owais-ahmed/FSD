@@ -1,0 +1,233 @@
+#header{
+    background-color:#CE0505;
+    height: 60px;
+    /*border: 1px solid black;*/
+    display: flex;
+    justify-content:center;
+    align-items:center ;
+}
+body{
+    background-color: #fbfbfb;
+}
+.hdiv{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 40px;
+    width: 90%;
+    /*border: 1px solid black;*/
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    /*float: left;*/
+    color: #EB2929;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    /*margin-left: 70px;
+    margin-top: 10px;*/
+    padding: 5px;
+    margin-left: 30px;
+}
+#login{
+    color: white;
+    /*float: right;*/
+    background: transparent;
+    text-decoration: none;
+    padding: 10px;
+}
+#account{
+    border: 1px solid #FFFFFF;
+    border-radius: 3px ;
+    text-align: center;
+    color:#FFFFFF;
+    /*float: right;*/
+    background: transparent;
+    text-decoration: none;
+    padding: 10px;
+   /* margin-right: 25px;
+    margin-top: 50px;*/
+}
+.h1{
+    color: #192F60;
+    padding-left: 100px;
+}
+#below{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+#left{
+    width: 15%;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-left: 105px;
+}
+#right{
+    /*float: left;*/
+    width: 45%;
+    /*padding-right: 75px;*/
+    margin-right: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /*border: 1px solid black;*/
+}
+select{
+    width: 200px;
+    height: 30px;
+    color: #8C96AB;
+    border: 1px solid #8C96AB;
+    padding: 5px;
+}
+.left{
+/*max-width: 35%;*/
+margin: 2px;
+/*float: left;*/
+
+padding: 10px;
+/*border: 2px solid black*/
+}
+.right{
+   /* max-width: 75%;*/
+    /*margin: 2px;
+    float: left;
+    padding: 10px;*/
+    /*border: 2px solid black;*/
+    margin-left: 20px;
+    margin-top: 25px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+}
+.top,.bottom{
+    margin-bottom: 40px;
+    margin-right: 40px;
+    /*border: 1px solid black;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    width: 750px;
+    height: 250px;
+}
+.t1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+    /*border: 1px solid black;*/
+    width: 650px;
+
+}
+.t2{
+    display: flex;
+    justify-content: start;
+}
+input{
+    color: #8C96AB;
+}
+img{
+    border-radius: 30px;
+}
+.item1{
+    font-size: 25px;
+    font-weight: bold;
+    color: #192F60;
+}
+.item2{
+    color: #192F60;
+}
+.item3{
+    color: #636F88;
+}
+.bp{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50px;
+    width: 50%;
+    
+}
+.bp1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color:#636F88;
+    margin-left: 15px;
+    margin-top: 10px;
+    /*border: 1px solid black;*/
+    height: 50px;
+    width: 150px;
+}
+.bp2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #192F60;
+    margin-left: 45px;
+    margin-top: 10px;
+    /*border: 1px solid black;*/
+    height: 50px;
+    width: 150px;
+}
+.ftr{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    width: 750px;
+    /*border: 1px solid black;*/
+    height: 70px;
+}
+.anchor{
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    /*border: 1px solid black;*/
+    border: 1px solid #8C96AB;
+    border-radius: 15%;
+    box-shadow: 0px 3px 6px #00000029;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #8C96AB;
+    font-weight: bolder;
+}
+hr{
+    background-color: #FFFFFF;
+    margin-left: 15px;
+    color: #8C96AB ;
+}
+.color1{
+    color: #192F60;
+}
+.color2{
+    color: #8C96AB;
+    opacity: 100%;
+}
+/*
+.cb{
+    background-color: #3A5075;
+    border-color:#3A5075 ;
+    
+}*/
+/*
+input[type="checkbox"] {
+    border: 1px solid #3A5075;
+    background-color: #FFFFFF;
+}
+input[type="checkbox"]:checked{
+    background-color: #192F60;
+}*/

@@ -1,0 +1,12 @@
+body {
+    color: green;
+    background-image: url("images/junk-food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+div {
+    color: red;
+    text-align: center;
+}

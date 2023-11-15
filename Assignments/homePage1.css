@@ -1,0 +1,123 @@
+#top{
+    background-image: url("./img1/shutterstock_348320018.png");
+    background-repeat: no-repeat;
+    height: 480px;
+    color: #ffffff;
+}
+.top1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 350px;
+    color: #ffffff;
+}
+.logo{
+    size: 100px;
+    font:bold;
+    font-size:70px;
+    color: #EB2929;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+.sb1{
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+}
+.sb2{
+    margin: 10px;
+    width: 330px;
+    height: 20px;
+    padding: 10px;
+    border: 1px solid white;
+}
+.topRightaccount{
+    float: right;
+    color: white;
+    margin: 10px;
+    border: 1px solid white;
+    padding: 8px;
+    background: transparent;
+
+}
+.topRightlogin{
+    float: right;
+    color: white;
+    margin: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+#bottom{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #fbfbfb;
+    /*border: 2px solid black;*/
+
+}
+.blocks{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.eachBox{
+    width: 360px;
+    height:160px;
+    display: flex;
+    justify-content: space-around;
+    /*border: 2px solid black;*/
+    margin: 20px;
+    opacity: 1;
+    background-color: #ffffff;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.text{
+    text-align: start;
+    width: 200px;
+    height: 156px;
+    color: #8c96ab;
+    padding: 20px;
+    /*border: 2px solid black;*/
+    /*margin: 10px;*/
+}
+#middle{
+    /*border: 2px solid black;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:start;
+    /*text-align: start;*/
+    height: 100px ;
+    color: #8c96ab;
+    /*margin-left: 85px;*/
+    opacity: 1;
+    background-color: #fbfbfb;
+}
+.qs{
+    color: #192f60;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 85px;
+}
+.meal{
+    margin-left: 85px;
+}
+.image{
+    /*border: 2px solid black;*/
+    /*margin: 10px;*/
+    width: 200px;
+    height: 156px;
+}
+.strong{
+    color: #192f60;
+}

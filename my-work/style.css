@@ -1,0 +1,23 @@
+body {
+    color: blueviolet;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background: aqua;
+    
+}
+
+#search{
+    text-align: center;
+    border: 02px solid lightgreen;
+    margin: 2px;
+    padding: 8px;
+    width: 350px;
+    border-radius: 30px;
+    /*display: flex;
+    justify-content: center;
+    */
+}
+#button{
+    width: 60px;
+    height: 27px;
+}
